@@ -1,22 +1,22 @@
-<p align="center" style="background: rgba(0,0,0,0.6); background-color:black;border-radius: 10px; padding: 20px; padding-bottom: 0;">
+<div style="background-color: black; padding: 20px; text-align: center;">
   <img 
     src="https://github.com/NCJ-Hackademia/Assets/blob/main/Hackademia-Logo%20(1).png?raw=true" 
     alt="Hackademia Logo" 
     height="70"
   >
-</p>
+</div>
 
-# CTK 🚀
+# ${teamName} 🚀
 
-Welcome to the official repository for **CTK**.
+Welcome to the official repository for **${teamName}**.
 
 This repository was automatically generated following your registration.
 
 ## Team Information
 
-- **Team Name:** CTK
-- **Team Captain (GitHub):** [@vamshi1698](https://github.com/vamshi1698)
-- **Repository Name:** 02-CTK
+- **Team Name:** ${teamName}
+- **Team Captain (GitHub):** [@${githubUsername}](https://github.com/${githubUsername})
+- **Repository Name:** ${repoName}
 
 ---
 
